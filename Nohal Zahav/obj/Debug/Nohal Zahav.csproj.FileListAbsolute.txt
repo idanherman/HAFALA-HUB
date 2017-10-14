@@ -1,0 +1,16 @@
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal Zahav.csprojResolveAssemblyReference.cache
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal_Zahav.Form1.resources
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal_Zahav.Properties.Resources.resources
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal Zahav.csproj.GenerateResource.Cache
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal Zahav.csproj.CoreCompileInputs.cache
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\bin\Debug\Nohal Zahav.exe.config
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\bin\Debug\Nohal Zahav.exe
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\bin\Debug\Nohal Zahav.pdb
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal Zahav.exe
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal Zahav.pdb
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal_Zahav.filesystemauto_page.resources
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal_Zahav.Filesystemsautomation_page.resources
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal_Zahav.page_FSAuto1.resources
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal_Zahav.page_Tools.resources
+C:\Users\Idan\source\repos\Nohal Zahav\Nohal Zahav\obj\Debug\Nohal_Zahav.page_Menu.resources
